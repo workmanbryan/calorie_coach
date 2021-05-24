@@ -20,7 +20,7 @@ def disp(b, sex, age, available_cals, goal, protein, carbohydrates, fat, activit
 		st.write("Sedentary: ")
 		st.write(activity_dict["Sedentary"])
 	with col22:
-		st.write("LAZY. Memento Mori people... get up and live.")
+		st.write("not much activity")
 
 	col3, col33 = st.beta_columns([1, 3])
 	with col3:
